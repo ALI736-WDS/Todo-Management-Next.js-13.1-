@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+DisAllow: /dashboard
+
+Sitemap: https://baseurl.ir/sitemap.xml 
